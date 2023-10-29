@@ -5,5 +5,5 @@
 
 
 body {
-  @apply font-poppins bg-body text-primary
+  @apply font-poppins bg-body/80 text-primary
 }
