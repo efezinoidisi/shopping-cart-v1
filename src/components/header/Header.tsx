@@ -14,7 +14,7 @@ const Header = () => {
         className='relative flex gap-1 items-center'
       >
         <Icons.cart />
-        <span className='bg-accent rounded-lg p-2 w-4 h-4 font-mono absolute -top-1 -right-2 text-xs flex items-center justify-center border-2 border-body'>
+        <span className='bg-accent rounded-lg p-2 w-4 h-4 font-mono absolute -top-1 -right-2 text-xs flex items-center justify-center border-2 border-body/80'>
           {totalItems}
         </span>
       </Button>
